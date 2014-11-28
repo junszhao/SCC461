@@ -35,7 +35,7 @@ public class Tweet {
 	public static void main(String[] args) {
 	
 		// set the location to read the file from
-		String fileName = "/Users/zhaoj/Dropbox/SCC461/Week 9/Resources/rda-plenary3.csv";
+		String fileName = "resources" + File.separator + "week9" + File.separator + "rda-plenary3.csv";
 		
 		
 		CSVReader reader = null;

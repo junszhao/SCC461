@@ -40,7 +40,7 @@ public class Tweeter {
 	
 	public static void main(String[] args) {
 		// set the location to read the file from
-		String fileName = "/Users/zhaoj/Dropbox/SCC461/Week 9/Resources/rda-plenary3-originals.csv";       
+		String fileName = "resources" + File.separator + "week9" + File.separator + "rda-plenary3-your-own.csv";      
 				
 		CSVReader reader = null;
 			
